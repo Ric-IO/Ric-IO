@@ -1,4 +1,4 @@
-# ⚡ Ricardo Melo
+# 💻⚙️ Ricardo Melo
 
 **`Engenheiro da Computação | IoT & Sistemas Embarcados`**
 
