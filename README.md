@@ -57,7 +57,7 @@ Desenvolvi um sistema completo com ESP32 e sensor MQ-2 para monitoramento de GLP
 
 **Tecnologias utilizadas:** ESP32, C++, Arduino IDE, MQ-2, Servo Motor, Display TFT, WhatsApp API (CallMeBot).
 
-🔗 [Ver repositório](#) *(coloque o link aqui quando subir o código)*
+🔗 [Ver repositório](#) *(https://github.com/Ric-IO/detector_gas.git)*
 
 ---
 
